@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>924954379372-kfd8kdkn29hrroveuhulo0skv03jf33s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.924954379372-kfd8kdkn29hrroveuhulo0skv03jf33s</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>924954379372-qbekd4fdim1fl2jikro5dju1u9ic1j0r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBsUkS1Xvdzl7EVzhueJzEr0YZ_j9itItQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>924954379372</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.otpGenerator</string>
+	<key>PROJECT_ID</key>
+	<string>otp-generator-47cf5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>otp-generator-47cf5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:924954379372:ios:e57ed1bbd7f26c2dab8449</string>
+	<key>DATABASE_URL</key>
+	<string>https://otp-generator-47cf5.firebaseio.com</string>
+</dict>
+</plist>
